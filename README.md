@@ -79,6 +79,7 @@ class TranslatorApp:
         ...
 ```
 **▼ 메인 창 구성** 
+
 ![screenshot](GUI_main.png)  
 <br>
 
