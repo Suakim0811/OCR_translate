@@ -131,7 +131,7 @@ class TranslatorApp:
     def setup_ui(self):
         # 캡쳐 버튼
         capture_btn = tk.Button(
-            self.root, text="📷 화면 캡쳐하기", 
+            self.root, text="화면 캡쳐하기", 
             command=self.start_capture,
             bg="#4a7abc", fg="white", 
             font=("휴먼둥근헤드라인", 12, "bold"),
